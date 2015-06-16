@@ -1,0 +1,11 @@
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\bin\Debug\TextEditorApp.exe.config
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\bin\Debug\TextEditorApp.exe
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\bin\Debug\TextEditorApp.pdb
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.csprojResolveAssemblyReference.cache
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.Properties.Resources.resources
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.TextEditorMainMenuUI.resources
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.csproj.GenerateResource.Cache
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.exe
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.pdb
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.Help.resources
+G:\Visual Studio Project\TextEditorApp\TextEditorApp\obj\Debug\TextEditorApp.About.resources
